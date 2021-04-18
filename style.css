@@ -1,0 +1,171 @@
+.body{
+    background-color: black;
+
+}
+.prize{
+    font-family: Roboto;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0em;
+text-align: center;
+color: #FEF9F9;
+
+/*text-decoration-color:#E71178 ;
+text-decoration-thickness: px;*/
+/*padding-bottom: 15px; 
+border-bottom-style: solid;*/
+
+border-width: 50px;
+padding-bottom: 10px; 
+position: relative;
+border-bottom: 1px solid #E71178;
+
+}
+.rectangle{
+    position: absolute;
+width: 159.87px;
+height: 150.9px;
+padding-left: 480px;
+padding-top: 6rem;
+}
+.square{
+    position: absolute;
+width: 159.87px;
+height: 150.9px;
+padding-left: 850.89px;
+padding-top: 6rem;
+
+}
+.circle{
+    position: absolute;
+width: 159.87px;
+height: 150.9px;
+padding-left: 665.26px;
+padding-top: 8em;
+
+}
+.prize1{
+    height: 41.2365608215332px;
+width: 183.34408569335938px;
+left: 437px;
+top: 6420px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 41px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+color: #E71178;
+
+
+}
+.prize2{
+    height: 41.2365608215332px;
+width: 183.34408569335938px;
+left: 437px;
+top: 6420px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 41px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+color: #E71178;
+
+}
+.prize3{
+    height: 43.2365608215332px;
+width: 205.2042999267578px;
+left: 600.6884765625px;
+top: 6747.35498046875px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 41px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+color: #E71178;
+
+
+}
+/* Dropdown Button */
+/*.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 40px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  /*.dropdown {
+    padding-left: 300px;
+    padding-top: 6rem;
+    position: absolute;
+
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  /*.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    /*min-width: 160px;
+       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  /*.dropdown-content a {
+    color: black;
+    padding: 50px 50px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover 
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover 
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown 
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}*/
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    /*border-bottom: 1px dotted white;*/
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color:white;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+.image{
+    padding-left: 850.89px;
+padding-top: 12rem;
+
+}
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  
